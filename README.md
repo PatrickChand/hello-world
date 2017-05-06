@@ -1,2 +1,5 @@
 # hello-world
-Just programming repository
+
+Hi, humans!
+
+Patrick here, I'm trying to learn python language.
