@@ -1,5 +1,6 @@
-# hello-world
+# HTML/CSS/JavaScript
 
-Hi, humans!
 
-Patrick here, I'm trying to learn python language.
+[JavaScript Fundamentals](https://javascript.info/first-steps)
+
+[DOM Scripting: Web Design with JavaScript and the Document Object Model](https://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893)
